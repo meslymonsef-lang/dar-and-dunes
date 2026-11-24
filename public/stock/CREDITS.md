@@ -1,0 +1,6 @@
+- riad-courtyard.jpg: Photo by ha11ok on Pixabay (https://pixabay.com/photos/corridor-gate-architecture-door-2158468/)
+- blue-city.jpg: Photo by YakupIpek on Pixabay (https://pixabay.com/photos/chefchaouen-morocco-architecture-7395031/)
+- sahara-dunes.jpg: Photo by GregMontani on Pixabay (https://pixabay.com/photos/desert-morocco-dunes-sand-2435404/)
+- marrakech-riad.jpg: Photo by 2427999 on Pixabay (https://pixabay.com/photos/morocco-hotel-indoor-pool-2638957/)
+- essaouira-coast.jpg: Photo by 2427999 on Pixabay (https://pixabay.com/photos/morocco-essaouira-harbor-fishing-3772252/)
+- marrakech-city.jpg: Photo by David6303 on Pixabay (https://pixabay.com/photos/mosque-marrakesh-morocco-moroccan-1126197/)
